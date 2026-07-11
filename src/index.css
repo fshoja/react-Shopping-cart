@@ -1,0 +1,32 @@
+ @import "tailwindcss";
+ 
+
+ @font-face {
+    font-family: 'lalezar';
+    src: url('../public/fonts/Lalezar/Lalezar-Regular.ttf');
+ }
+
+ @font-face {
+    font-family: 'yecan';
+    src: url('../public/fonts/B_Yekan/Yekan.ttf');
+ }
+ 
+ @font-face {
+    font-family: 'vazir';
+    src: url('../public/fonts/ttf/Vazirmatn-Black.ttf');
+ }
+ 
+*{
+ padding: 0  !important;
+   padding: 0 !important;
+   box-sizing: border-box; 
+
+}
+body{
+font-family: 'yecan' !important;   
+
+}
+
+
+
+
