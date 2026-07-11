@@ -3,8 +3,8 @@
 **A simple responsive shopping cart built with React.js.**
 **یک اپلیکیشن سبد خرید ساده و واکنش‌گرا ساخته شده با ری‌اکت.**
 
-🔗 **
-click[here](https://fshoja.github.io/react-Shopping-cart/)
+
+	click[here](https://fshoja.github.io/react-Shopping-cart/)
 
 ## ✨ Features / ویژگی‌ها
 - Add/Remove items & Update quantity | افزودن، حذف و تغییر تعداد محصولات
