@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛒 React Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A simple responsive shopping cart built with React.js.**
+**یک اپلیکیشن سبد خرید ساده و واکنش‌گرا ساخته شده با ری‌اکت.**
 
-Currently, two official plugins are available:
+🔗 **
+click[here](https://fshoja.github.io/react-Shopping-cart/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features / ویژگی‌ها
+- Add/Remove items & Update quantity | افزودن، حذف و تغییر تعداد محصولات
+- Real-time total price | محاسبه لحظه‌ای قیمت کل
+- **LocalStorage persistence | ذخیره شدن سبد خرید با رفرش صفحه**
+- Fully responsive | طراحی کاملاً واکنش‌گرا (مناسب موبایل)
 
-## React Compiler
+## 🛠️ Tech Stack / تکنولوژی‌ها
+- **React.js** | **CSS3**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-Shopping-cart
-Responsive E-commerce UI built with React, HTML5, CSS3 &amp; JS
->>>>>>> ffdcd45eec87ee265f75450ebd8539e44bd15606
+## 🚀 How to Run / نحوه اجرا
+```bash
+git clone https://github.com/fshoja/react-Shopping-cart.git
+npm install
+npm start
