@@ -18,7 +18,7 @@ export default function Shop() {
 
 {
   allproduct.map(item =>(
-    <Products item={item}/>
+    <Products key={item.id} item={item}/>
   ))
 }
 </div>  
